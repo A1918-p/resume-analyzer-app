@@ -1,0 +1,16 @@
+Save this as `.gitignore` in the same folder:
+
+Virtual environment
+.venv/
+pycache/
+*.pyc
+
+Streamlit/temporary files
+resume_analysis_report.pdf
+uploaded_resume.pdf
+
+OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
